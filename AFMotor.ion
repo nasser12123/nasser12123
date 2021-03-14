@@ -1,7 +1,4 @@
-//Viral science www.youtube.com/c/viralscience
-//FireFighter Truck App:-  https://drive.google.com/open?id=1RFp2n5pDVhkZuviZddoQFgRBB909e_va
 
-#include <AFMotor.h>
 AF_DCMotor right_motor(1, MOTOR12_8KHZ);
 AF_DCMotor left_motor(2, MOTOR12_8KHZ);
 AF_DCMotor three_motor(3, MOTOR12_8KHZ);
